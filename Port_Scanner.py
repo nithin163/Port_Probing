@@ -25,9 +25,6 @@ print("""@@@@@@@   @@@ @@@  @@@@@@@   @@@@@@@
 print("\n---------------------------------------------------------------------\n")
 print("                    Port Probing Tool Developed by SNV                     \n")
 
-
-
-
 import threading
 import socket
 
